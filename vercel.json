@@ -1,8 +1,8 @@
 {
   "version": 2,
+  "framework": null,
   "functions": {
     "api/mcp.py": {
-      "runtime": "@vercel/python",
       "maxDuration": 300
     }
   }
